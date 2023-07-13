@@ -9,7 +9,7 @@ body {
   min-width: 0;
 }
 .body > * {
-  flex: 1 1 0;
+  flex: 1 1 auto;
   padding: 0px 150px;
   justify-content: center;
 }
